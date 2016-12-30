@@ -11,11 +11,11 @@
  */
 
 # App Configs 
-$baseURL = 'http://192.185.197.13/~sirikota/sandbox/Ind/PayPal'; // Base URL
+$baseURL = '<put base url here>'; // Base URL
 
 # PayPal API Configs
 $apiURL = 'https://www.sandbox.paypal.com/cgi-bin/webscr'; // SandBox Paypal API URL (Live URL: https://www.paypal.com/cgi-bin/webscr)
-$merchantID = 'indika@eight25media.com';
+$merchantID = '<put merchant email ID here>';
 
 # PayPal UI Parms
 $cppHeaderImage = 'https://www.paypalobjects.com/webstatic/developer/logo2_paypal_developer_1x.png';
